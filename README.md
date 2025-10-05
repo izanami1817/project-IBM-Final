@@ -17,14 +17,16 @@ Dataset yang digunakan adalah ulasan produk dari Tokopedia yang diambil dari Kag
 Berdasarkan hasil analisis menggunakan AI, ditemukan beberapa insight utama:
 
 ### Aspek yang Paling Disukai Pelanggan (Sentimen Positif)
-(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5aa27e25-7bc5-4a38-820a-72e06f292084" />
+( <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ccc9ff5-5aff-49b4-8cc6-8618d7b33733" />
+
 )
 
 **Penjelasan:**
 (" insight utama dari grafik ini adalah bahwa pengalaman berbelanja yang lancar dan tepercaya (dari segi pengiriman dan komunikasi) adalah pendorong kepuasan pelanggan yang sama kuatnya dengan kualitas produk itu sendiri")
 
 ### Aspek yang Paling Dikeluhkan Pelanggan (Sentimen Negatif)
-(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e15a53a4-5419-4155-8a81-c3f041a6ea39" />
+(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b2b7ac8-c55b-489f-821c-ed6c4c6f4489" />
+
 )
 
 **Penjelasan:**
