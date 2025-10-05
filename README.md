@@ -24,7 +24,8 @@ Berdasarkan hasil analisis menggunakan AI, ditemukan beberapa insight utama:
 (" insight utama dari grafik ini adalah bahwa pengalaman berbelanja yang lancar dan tepercaya (dari segi pengiriman dan komunikasi) adalah pendorong kepuasan pelanggan yang sama kuatnya dengan kualitas produk itu sendiri")
 
 ### Aspek yang Paling Dikeluhkan Pelanggan (Sentimen Negatif)
-()
+(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e15a53a4-5419-4155-8a81-c3f041a6ea39" />
+)
 
 **Penjelasan:**
 (" Grafik ini menunjukkan keluhan utama pelanggan, yang sebagian besar berpusat pada masalah produk itu sendiri. Aspek seperti "Fungsi", "Ori" (keaslian), dan "Kendala" berada di peringkat atas, yang mengindikasikan bahwa pelanggan seringkali merasa kecewa karena produk tidak berfungsi seperti yang diharapkan atau meragukan originalitasnya. Temuan ini menyarankan perlunya peningkatan kontrol kualitas produk secara ketat sebelum barang dikirim ke pembeli.")
